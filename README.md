@@ -1,8 +1,11 @@
+# Flutter Móvil - FitTracker360
+
+
 <p align="center">
   <a href="https://docs.docker.com/" target="blank"><img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" width="330" alt="Flutter Logo" /></a>
 </p>
 
-# Flutter Móvil - FitTracker360
+
 # Instalaciones recomendadas
 
 
