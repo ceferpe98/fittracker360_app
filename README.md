@@ -8,7 +8,9 @@
 
 # Instalaciones recomendadas
 
+# Instalaciones de Skin - Android Studio
 
+1. [Skin Iphone X / Iphone 14](https://github.com/SemihK/iPhone_AndroidStudioEmulator_Skin/tree/main?tab=readme-ov-file)
 
 # Instalaciones en el equipo
 
