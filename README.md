@@ -23,11 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Flutter Móvil - Instalaciones recomendadas
 
-Descargar las hojas de atajos recomendadas:
-
-[Guías de atajos - Dart ](https://github.com/Klerith/mas-talento/blob/main/dart/dart-cheat-sheet.pdf)
-
-[Guías de atajos - Flutter ](https://github.com/Klerith/mas-talento/blob/main/flutter/flutter-cheat-sheet.pdf)
 
 
 # Instalaciones en el equipo
